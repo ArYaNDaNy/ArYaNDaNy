@@ -5,7 +5,7 @@
 I'm a passionate and self-driven developer with a strong focus on building scalable and efficient web applications. I thrive on solving complex problems and constantly exploring new technologies to improve my craft.
 
 - 🌱 I’m currently learning: **AIML** (e.g., Go, Kubernetes, or Advanced React Hooks)
-- 💬 Ask me about: **Frontend Development** or **Backend Development** (e.g., API design, component architecture, or testing strategies)
+- 💬 Ask me about: **Frontend Development** or **Backend Development** 
 - 📫 How to reach me: **aryandany15@gmail.com** or connect on LinkedIn below!
 - ⚡ Fun fact: I love art, music!
 
