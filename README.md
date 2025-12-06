@@ -21,7 +21,7 @@ I'm a passionate and self-driven developer with a strong focus on building scala
 | **Databases** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> |
 | **Development** | <img src="https://img.shields.io/badge/Mobile_App_Development-4FC08D?style=for-the-badge&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> |
 
-<br>
+<br> 
 
 ## 📈 My GitHub Stats
 
