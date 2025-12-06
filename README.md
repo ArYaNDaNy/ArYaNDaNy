@@ -26,9 +26,11 @@ I'm a passionate and self-driven developer with a strong focus on building scala
 ## 📈 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArYaNDaNy&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="ArYaNDaNy's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArYaNDaNy&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ArYaNDaNy&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="ArYaNDaNy's GitHub Stats" />
+  
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArYaNDaNy&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
 </div>
+
 
 <br>
 
